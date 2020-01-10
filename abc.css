@@ -1,0 +1,52 @@
+body {
+  margin: 45;
+  color: rgb(53, 11, 31);
+  background-image: url(https://public-media.interaction-design.org/images/ux-daily/5628f8c6cdb9d.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.MyPage0 {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  padding: 0rem;
+  border-radius: 2rem;
+  font-family: "Orbitron", sans-serif;
+}
+
+.font-family {
+  font-family: "Orbitron", sans-serif;
+}
+
+.image345 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 1000vh;
+  width: 1000vh;
+  display: flex;
+  flex-direction: column;
+  padding: 0rem;
+  border-radius: 0rem;
+  font-family: "Orbitron", sans-serif;
+}
+
+.first-heading {
+  margin-top: 6rem;
+}
+
+.the-text {
+  margin-top: 6rem;
+}
+
+.purple-text-with-black-shadow {
+  text-shadow: 2px 2px 2px black, 0 0 1em black, 0 0 0.2em black;
+  color: rgb(53, 11, 31);
+  font-family: "Orbitron", sans-serif;
+  font: 2em Orbitron, sans-serif;
+}
