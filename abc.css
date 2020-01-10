@@ -1,0 +1,64 @@
+body {
+  margin: 45;
+  color: rgb(245, 245, 245);
+  background-image: url(https://oceansolutions.stanford.edu/sites/g/files/sbiybj13371/f/about.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.MyPage0 {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  padding: 0rem;
+  border-radius: 2rem;
+  font-family: "Orbitron", sans-serif;
+}
+
+.font-family {
+  font-family: "Orbitron", sans-serif;
+}
+
+.image123 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 1000vh;
+  width: 1000vh;
+  display: flex;
+  flex-direction: column;
+  padding: 0rem;
+  border-radius: 0rem;
+  font-family: "Orbitron", sans-serif;
+}
+
+.first-heading {
+  margin-top: 6rem;
+}
+
+.the-text {
+  margin-top: 6rem;
+}
+
+.white-text-with-black-shadow {
+  text-shadow: 5px 5px 5px black, 0 0 0.5em black, 0 0 0.5em black;
+  color: rgb(245, 245, 245);
+  font-family: "Orbitron", sans-serif;
+  font-size: 30px;
+}
+
+ul {
+  background-color: orangered;
+  text-align: center;
+  font-size: 150%;
+  justify-content: center;
+  flex: 0;
+
+  text-decoration-color: orange;
+
+  border: 10px;
+}
