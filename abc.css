@@ -1,7 +1,7 @@
 body {
   margin: 45;
-  color: rgb(53, 11, 31);
-  background-image: url(https://public-media.interaction-design.org/images/ux-daily/5628f8c6cdb9d.jpg);
+  color: rgb(245, 245, 245);
+  background-image: url(https://oceansolutions.stanford.edu/sites/g/files/sbiybj13371/f/about.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -22,7 +22,7 @@ body {
   font-family: "Orbitron", sans-serif;
 }
 
-.image345 {
+.image123 {
   text-align: center;
   align-items: center;
   justify-content: center;
@@ -44,9 +44,21 @@ body {
   margin-top: 6rem;
 }
 
-.purple-text-with-black-shadow {
-  text-shadow: 2px 2px 2px black, 0 0 1em black, 0 0 0.2em black;
-  color: rgb(53, 11, 31);
+.white-text-with-black-shadow {
+  text-shadow: 5px 5px 5px black, 0 0 0.5em black, 0 0 0.5em black;
+  color: rgb(245, 245, 245);
   font-family: "Orbitron", sans-serif;
-  font: 2em Orbitron, sans-serif;
+  font-size: 30px;
+}
+
+ul {
+  background-color: orangered;
+  text-align: center;
+  font-size: 150%;
+  justify-content: center;
+  flex: 0;
+
+  text-decoration-color: orange;
+
+  border: 10px;
 }
